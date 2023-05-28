@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myfit">
+<uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/img1"
+        android:label="FitLife"
+        android:roundIcon="@drawable/img1"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SixDaySplit"></activity>
+        <activity android:name=".FiveDaySplit" />
+        <activity android:name=".Recommendation"/>
+        <activity android:name=".FourDaySplit" />
+        <activity android:name=".ThreeDaySplit" />
+        <activity android:name=".Splits" />
+        <activity android:name=".FoodCalories" />
+        <activity android:name=".Timer" />
+        <activity android:name=".HomePage" />
+        <activity android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

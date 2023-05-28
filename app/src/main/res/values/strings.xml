@@ -1,0 +1,32 @@
+<resources>
+
+
+    <string name="title">Body Mass Index (BMI)</string>
+    <string name="bmi_weight">Kilo</string>
+    <string name="caculate_bmi">Hesapla</string>
+    <string name="bmi_ib">kg</string>
+    <string name="bmi_feet">cm</string>
+    <string name="bmi_height">Height</string>
+
+
+    <string name="app_name">MyFit</string>
+
+    <string name="Open">Aç</string>
+    <string name="Close">Kapat</string>
+    <string name="workout_timer">BMI Hesaplama</string>
+    <string name="calorie_calculator">Kalori Hesaplama</string>
+    <string name="calorie_tracker">Kalori Takibi</string>
+    <string name="training_splits">Training Splits</string>
+    <string name="_60">60</string>
+    <string name="calories_taken">Calories Taken = 0 KCAL</string>
+    <string name="calories">Kaloriler</string>
+    <string name="kcal">KCAL</string>
+    <string name="reset">RESET</string>
+    <string name="enter_age">Yaşınızı Giriniz</string>
+    <string name="enter_height_in_cm">Boyunuzu giriniz (cm)</string>
+    <string name="enter_weight_in_kg">Kilonuzu giriniz (kg)</string>
+    <string name="enter_gender">Cinsiyetinizi Giriniz</string>
+
+
+
+</resources>
